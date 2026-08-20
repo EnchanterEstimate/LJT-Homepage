@@ -24,17 +24,17 @@ Publications
 ======
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)  
    *First author*  
-   Junteng Liu\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+   Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    Arxiv, 2025
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
    *First author*  
-   Junteng Liu\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    Arxiv, 2025
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)  
    *First author*  
-   Junteng Liu\*, Shiqi Chen, Yu Cheng, Junxian He  
+   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
    EMNLP 2024
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024)  
